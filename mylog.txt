@@ -1,0 +1,123 @@
+﻿ 2013  cd work凯媒工作/
+ 2014  ls
+ 2015  cd 培训作业/
+ 2016  ls
+ 2017  cd gitTest/
+ 2018  ls
+ 2019  git clone git@github.com:turf96/test.git
+ 2020  cd ..
+ 2021  cd ~
+ 2022  ls
+ 2023  cd .ssh
+ 2024  ls
+ 2025  pwd
+ 2026  cd ~
+ 2027  ls
+ 2028  cd work凯媒工作/
+ 2029  ls
+ 2030  cd 培训作业/
+ 2031  ls
+ 2032  cd gitTest/
+ 2033  ls
+ 2034  git clone git@github.com:turf96/test.git
+ 2035  ls
+ 2036  cd test/
+ 2037  ls
+ 2038  cd ..
+ 2039  ssh -T git@github.com
+ 2040  git config --global user.email "994992468@qq.com"
+ 2041  git config --global user.name "turf96"
+ 2042  git --help
+ 2043  branch
+ 2044  git branch
+ 2045  git -branch
+ 2046  ls
+ 2047  cd test/
+ 2048  ls
+ 2049  git branch
+ 2050  git branch A
+ 2051  git branch
+ 2052  git branch B
+ 2053  git checkout master
+ 2054  ls
+ 2055  git checkout A
+ 2056  ls
+ 2057  git --help
+ 2058  git branch
+ 2059  git checkout master
+ 2060  git push origin HEAD -u
+ 2061  git checkout A
+ 2062* git push origin HEAD -
+ 2063  git checkout B
+ 2064  git push origin HEAD -u
+ 2065  history
+ 2066  git history
+ 2067  history > mylog.txt 
+ 2068  ls
+ 2069  cat mylog.txt 
+ 2070  vim mylog.txt 
+ 2071  nano mylog.txt 
+ 2072  history 30
+ 2073  history 60
+ 2074  history 60 > mylog.txt
+ 2075  cat mylog.txt 
+ 2076  git checkout master
+ 2077  git add mylog.txt
+ 2078  git commit mylog.txt
+ 2079  git push mylog.txt
+ 2080  git add .
+ 2081  git status
+ 2082  git commit -m "mylog.txt"
+ 2083  git status
+ 2084  git push
+ 2085  cd ..
+ 2086  mkdir testFile
+ 2087  cd testFile/
+ 2088  git clone git@github.com:turf96/testFile.git
+ 2089  git branch
+ 2090  ls
+ 2091  cd testFile/
+ 2092  cd ..
+ 2093  ls
+ 2094  rm -rf testFile/
+ 2095  ls
+ 2096  git clone git@github.com:turf96/testFile.git
+ 2097  cd testFile/
+ 2098  ls
+ 2099  git branch
+ 2100  ls
+ 2101  ssh -T git@github.com
+ 2102  git config --global user.email "994992468@qq.com"
+ 2103  git config --global user.name "turf96"
+ 2104  git branch
+ 2105  ls
+ 2106  cd ..
+ 2107  git branch
+ 2108  cd git branch
+ 2109  git branch
+ 2110  ls
+ 2111  cd test
+ 2112  cd ..
+ 2113  cd testFile/
+ 2114  ls
+ 2115  git branch
+ 2116  git branch A
+ 2117  git branch
+ 2118  git branch master
+ 2119  git branch -m A
+ 2120  echo "hello world" >> readme.txt
+ 2121  ls
+ 2122  git init 
+ 2123  git add readme.txt 
+ 2124  git commit -m "first commit"
+ 2125  git remote add origin git@github.com:turf96/testFile.git
+ 2126  git push -u origin master
+ 2127  git branch
+ 2128  git branch A
+ 2129  git branch B
+ 2130  git branch
+ 2131  git checkout A
+ 2132  git push origin HEAD -u
+ 2133  git checkout B
+ 2134  git push origin HEAD -u
+ 2135  history > mylog.txt
